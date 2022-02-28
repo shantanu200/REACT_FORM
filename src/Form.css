@@ -333,20 +333,11 @@
        justify-content: center;
        flex-direction: column;
    }
+
    .form-success{
-       all:initial;
-       width: 100vw;
-       height: 10vh;
-       position: relative;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       flex-direction: column;
-       color: whitesmoke;
-       font-size: 2rem;
+     margin-top: 500px;
    }
-   .form-img-2{
-       width: 80vw;
-   }
+
+
 }
 
